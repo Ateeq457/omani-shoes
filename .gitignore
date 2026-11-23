@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.deed-token
+CLAIM-URL.txt
+*.zip
+deploy/
+splash-logo.png
+splash-logo.jpg
+make_qr.py
+SITE-URL.txt
